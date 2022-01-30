@@ -40,9 +40,9 @@ The plots and charts prepared cannot be viewed from GitHub. To view the analysis
 
 The video of web application created by deploying Jupyter notebook via Voila library is given below:
 
-![voila](Images/image_5.png)  
+![plotting for daily returns](Images/image_5.png)  
 
-![voila-2](Images/image_6.png) 
+![ETF portfolio plotting](Images/image_6.png) 
  
 
 ---
