@@ -38,11 +38,12 @@ Before running the application first install the following dependencies:
 
 The plots and charts prepared cannot be viewed from GitHub. To view the analysis, clone the repository using "git clone <link>" and then navigate to the file named ```etf_analyzer.ipynb``` notebook in the [repository directory](https://github.com/Summi-Khanna/Challenge-7).
 
-The video of web application created by deploying Jupyter notebook via Voila library is given below:
+The snapshots of web application created by deploying Jupyter notebook via Voila library is given below:
 
-![plotting for daily returns](Images/image_5.png)  
+![plotting for daily returns](https://github.com/Summi-Khanna/Challenge-7/blob/main/Images/image_5.png)  
 
-![ETF portfolio plotting](Images/image_6.png) 
+
+![ETF portfolio plotting](https://github.com/Summi-Khanna/Challenge-7/blob/main/Images/image_6.png) 
  
 
 ---
